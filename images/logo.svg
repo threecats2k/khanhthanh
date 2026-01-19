@@ -1,17 +1,33 @@
-<svg width="200" height="200" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    <!-- Outer Decorative Ring -->
-    <circle cx="50" cy="50" r="48" fill="none" stroke="#FFC107" stroke-width="1" stroke-dasharray="2 2"/>
-    <circle cx="50" cy="50" r="45" fill="none" stroke="#FFC107" stroke-width="2"/>
-    
-    <!-- Main Diamond Symbol -->
-    <path d="M50 15 L80 50 L50 85 L20 50 Z" fill="#2d8650" opacity="0.1"/>
-    <path d="M50 15 L80 50 L50 85 L20 50 Z" fill="none" stroke="#FFC107" stroke-width="3"/>
-    
-    <!-- DT Interwoven -->
-    <g fill="#FFC107">
-        <!-- D -->
-        <path d="M40 35 V65 H48 C58 65 60 50 58 50 C60 50 58 35 48 35 H40 Z M45 40 H48 C53 40 54 48 54 50 C54 52 53 60 48 60 H45 V40 Z"/>
-        <!-- T horizontal bar -->
-        <rect x="35" y="48" width="30" height="4"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 80" width="350" height="80">
+  <defs>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3182ce;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#63b3ed;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="40" cy="40" r="32" fill="#3182ce" opacity="0.1"/>
+  
+  <!-- Sewing machine/spool icon -->
+  <g transform="translate(40, 40)">
+    <!-- Thread spool -->
+    <ellipse cx="0" cy="-8" rx="8" ry="4" fill="none" stroke="#3182ce" stroke-width="2"/>
+    <ellipse cx="0" cy="-8" rx="6" ry="3" fill="#63b3ed" opacity="0.3"/>
+    <!-- Thread coming from spool -->
+    <line x1="0" y1="-4" x2="0" y2="8" stroke="#3182ce" stroke-width="2" stroke-linecap="round"/>
+    <!-- Needle -->
+    <line x1="0" y1="8" x2="0" y2="18" stroke="#3182ce" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="0" cy="10" r="1.5" fill="#3182ce"/>
+    <!-- Fabric lines -->
+    <line x1="-12" y1="18" x2="12" y2="18" stroke="#bee3f8" stroke-width="1.5" stroke-dasharray="2 2"/>
+    <line x1="-10" y1="22" x2="10" y2="22" stroke="#bee3f8" stroke-width="1.5" stroke-dasharray="2 2"/>
+  </g>
+  
+  <!-- Company Name -->
+  <text x="90" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1a365d">Khanh Thanh</text>
+  <text x="90" y="52" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="url(#blueGradient)">Uniform</text>
+  
+  <!-- Tagline -->
+  <text x="90" y="68" font-family="Arial, sans-serif" font-size="10" fill="#4a5568" font-style="italic">Quality - Professional - Reliable</text>
 </svg>

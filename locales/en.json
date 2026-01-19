@@ -1,30 +1,30 @@
 {
   "meta": {
     "index": {
-      "title": "DONG TIEN HOTEL - Premium Accommodation Experience in Tay Ho, Hanoi",
-      "description": "DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY - Premium accommodation experience in Tay Ho, Hanoi. The perfect choice for short stays and business trips"
+      "title": "Khanh Thanh Uniform - Premium Accommodation Experience in Tay Ho, Hanoi",
+      "description": "Khanh Thanh Uniform - Premium accommodation experience in Tay Ho, Hanoi. The perfect choice for short stays and business trips"
     },
     "about": {
-      "title": "About Us - DONG TIEN HOTEL | About Our Company",
-      "description": "About DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY (DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY). Legal information, mission and core values"
+      "title": "About Us - Khanh Thanh Uniform | About Our Company",
+      "description": "About Khanh Thanh Uniform (Khanh Thanh Uniform). Legal information, mission and core values"
     },
     "services": {
-      "title": "Services - DONG TIEN HOTEL | Accommodation Services & Amenities",
-      "description": "DONG TIEN HOTEL's accommodation services & amenities: Comfortable rooms, free Wi-Fi, 24/7 room service. Premium accommodation experience in Tay Ho, Hanoi"
+      "title": "Services - Khanh Thanh Uniform | Accommodation Services & Amenities",
+      "description": "Khanh Thanh Uniform's accommodation services & amenities: Comfortable rooms, free Wi-Fi, 24/7 room service. Premium accommodation experience in Tay Ho, Hanoi"
     },
     "contact": {
-      "title": "Contact - DONG TIEN HOTEL | Booking & Consultation",
-      "description": "Contact DONG TIEN HOTEL - Book a room or consult about accommodation services. Address: No. 66 Xuan Dieu Street, Tay Ho Ward, Hanoi City, Vietnam. Phone: 0917980188"
+      "title": "Contact - Khanh Thanh Uniform | Booking & Consultation",
+      "description": "Contact - Address: No. 2, Alley 201/2 Phuc Loi Street, Phuc Loi Ward, Hanoi City, Vietnam. Phone: 0363929966"
     },
     "privacy": {
-      "title": "Privacy Policy - DONG TIEN HOTEL",
-      "description": "Privacy policy of DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY - Commitment to protecting customer information"
+      "title": "Privacy Policy - Khanh Thanh Uniform",
+      "description": "Privacy policy of Khanh Thanh Uniform - Commitment to protecting customer information"
     }
   },
   "privacyPage": {
-    "title": "Privacy Policy for DONG TIEN HOTEL Mobile App",
+    "title": "Privacy Policy for Khanh Thanh Uniform Mobile App",
     "effectiveDate": "Effective date: 04 January 2026",
-    "intro": "This Privacy Policy explains how we collect, use, disclose, and protect your information when you use the DONG TIEN HOTEL mobile application (the \"App\").",
+    "intro": "This Privacy Policy explains how we collect, use, disclose, and protect your information when you use the Khanh Thanh Uniform mobile application (the \"App\").",
     "sections": [
       {
         "title": "1. Information We Collect",
@@ -40,7 +40,7 @@
       },
       {
         "title": "4. Sharing and Disclosure of Information",
-        "content": "We do not sell your personal data. We may share your information in the following cases:\n- With our internal teams and authorized partners solely for the purpose of providing and supporting our accommodation services and hotel operations.\n- With third-party service providers that help us with analytics, hosting, or communication (these providers are required to protect your data and only use it for the contracted purpose).\n- When required by law, regulation, legal process, or governmental request.\n- To protect the rights, property, or safety of DONG TIEN HOTEL, our customers, or the public."
+        "content": "We do not sell your personal data. We may share your information in the following cases:\n- With our internal teams and authorized partners solely for the purpose of providing and supporting our accommodation services and hotel operations.\n- With third-party service providers that help us with analytics, hosting, or communication (these providers are required to protect your data and only use it for the contracted purpose).\n- When required by law, regulation, legal process, or governmental request.\n- To protect the rights, property, or safety of Khanh Thanh Uniform, our customers, or the public."
       },
       {
         "title": "5. Third-Party Services and SDKs",
@@ -72,14 +72,14 @@
       },
       {
         "title": "12. Contact Us",
-        "content": "If you have any questions, requests, or complaints regarding this Privacy Policy or our data protection practices, please contact us at:\n\n**DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY**\nRegistered address: No. 66 Xuan Dieu Street, Tay Ho Ward, Hanoi City, Vietnam\nPhone: 0917980188\nEmail: info@dongtienhotel.store\nWebsite: https://dongtienhotel.store"
+        "content": "If you have any questions, requests, or complaints regarding this Privacy Policy or our data protection practices, please contact us at:\n\nRegistered address: No. 2, Alley 201/2 Phuc Loi Street, Phuc Loi Ward, Hanoi City, Vietnam\nPhone: 0363929966\nEmail: info@khanhthanh.store\nWebsite: https://khanhthanh.store"
       }
     ]
   },
   "common": {
-    "logo": "DONG TIEN HOTEL",
-    "tagline": "Dedication - Quality - Comfort",
-    "phone": "0917980188",
+    "logo": "Khanh Thanh Uniform",
+    "tagline": "Quality - Professional - Reliable",
+    "phone": "0363929966",
     "contactNow": "Book Now",
     "nav": {
       "home": "Home",
@@ -92,9 +92,9 @@
       "menu": "Menu"
     },
     "footer": {
-      "companyDesc": "DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY - Premium accommodation experience in Tay Ho, Hanoi",
-      "address": "No. 66 Xuan Dieu Street, Tay Ho Ward, Hanoi City, Vietnam",
-      "email": "info@dongtienhotel.store",
+      "companyDesc": "Khanh Thanh Uniform - Specialized in producing and manufacturing high-quality uniforms. Corporate uniforms, school uniforms, medical uniforms and professional apparel.",
+      "address": "No. 2, Alley 201/2 Phuc Loi Street, Phuc Loi Ward, Hanoi City, Vietnam",
+      "email": "info@khanhthanh.store",
       "services": "Services",
       "info": "Information",
       "support": "Support",
@@ -104,7 +104,7 @@
       "wifi": "Free Wi-Fi",
       "aboutUs": "About Us",
       "companyInfo": "Company Information",
-      "copyright": "2024 DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY. Tax ID: 0108523598"
+      "copyright": "2024. Tax ID: 0111146075"
     },
     "breadcrumb": {
       "home": "Home"
@@ -118,8 +118,8 @@
       "learnMore": "Learn More"
     },
     "about": {
-      "title": "Welcome to DONG TIEN HOTEL",
-      "subtitle": "We are committed to providing you with an excellent accommodation experience with comfortable spaces, dedicated service and premium quality. At DONG TIEN HOTEL, every detail is carefully crafted to ensure maximum customer satisfaction."
+      "title": "Welcome to Khanh Thanh Uniform",
+      "subtitle": "We are committed to providing you with an excellent accommodation experience with comfortable spaces, dedicated service and premium quality. At Khanh Thanh Uniform, every detail is carefully crafted to ensure maximum customer satisfaction."
     },
     "services": {
       "title": "Accommodation Services & Amenities",
@@ -168,7 +168,7 @@
       }
     },
     "whyChoose": {
-      "title": "Why Choose DONG TIEN HOTEL?",
+      "title": "Why Choose Khanh Thanh Uniform?",
       "dedication": {
         "title": "Dedicated Service",
         "desc": "Professional staff, always ready to serve with dedicated and attentive attitude"
@@ -198,7 +198,7 @@
       "title": "Experience Premium Accommodation Today",
       "subtitle": "Contact us to book a room or learn more about our services",
       "contact": "Book Now",
-      "call": "Call: 0917980188"
+      "call": "Call: 0363929966"
     }
   },
   "contact": {
@@ -220,7 +220,7 @@
     },
     "map": {
       "title": "Find us on the map",
-      "address": "📍 No. 66 Xuan Dieu Street, Tay Ho Ward, Hanoi City, Vietnam"
+      "address": "📍 No. 2, Alley 201/2 Phuc Loi Street, Phuc Loi Ward, Hanoi City, Vietnam"
     },
     "form": {
       "title": "Send Request to Us",
@@ -244,11 +244,11 @@
   },
   "about": {
     "pageTitle": "About Our Company",
-    "pageSubtitle": "DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY (DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY)",
+    "pageSubtitle": "Khanh Thanh Uniform (Khanh Thanh Uniform)",
     "breadcrumb": "About",
     "intro": {
-      "title": "About DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY",
-      "desc": "DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY (DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY) was established on November 23, 2018, specializing in short-term accommodation services (Hotels; Villas or apartments for short-term accommodation; Guesthouses, motels; Inns, shared rooms and similar short-term accommodation). We are committed to providing you with an excellent accommodation experience with comfortable spaces, dedicated service and premium quality."
+      "title": "About Khanh Thanh Uniform",
+      "desc": "Khanh Thanh Uniform (Khanh Thanh Uniform) was established on November 23, 2018, specializing in short-term accommodation services (Hotels; Villas or apartments for short-term accommodation; Guesthouses, motels; Inns, shared rooms and similar short-term accommodation). We are committed to providing you with an excellent accommodation experience with comfortable spaces, dedicated service and premium quality."
     },
     "legal": {
       "title": "Legal Information",
@@ -286,7 +286,7 @@
     "breadcrumb": "Services",
     "featured": {
       "title": "Exceptional Amenities",
-      "subtitle": "At DONG TIEN HOTEL, we are committed to providing modern amenities and dedicated service, making every moment memorable.",
+      "subtitle": "At Khanh Thanh Uniform, we are committed to providing modern amenities and dedicated service, making every moment memorable.",
       "spa": {
         "title": "Spa & Massage Area",
         "desc": "Relax and recharge with unique spa treatments",
@@ -403,18 +403,18 @@
         "phone": "Phone:",
         "email": "Email:"
       },
-      "nameVi": "CÔNG TY CỔ PHẦN PHÁT TRIỂN THƯƠNG MẠI VÀ DỊCH VỤ ĐỒNG TIẾN",
-      "nameEn": "DONG TIEN SERVICE AND COMMERCIAL DEVELOPMENT JOINT STOCK COMPANY",
-      "abbreviation": "DONG TIEN HOTEL",
-      "taxId": "0108523598",
-      "activityDate": "2018-11-23",
+      "nameVi": "Khanh Thanh Uniform",
+      "nameEn": "Khanh Thanh Uniform",
+      "abbreviation": "Khanh Thanh Uniform",
+      "taxId": "0111146075",
+      "activityDate": "2025-07-24",
       "status": "Active",
-      "managedBy": "Tay Ho District Tax Department",
-      "taxAddress": "No. 66 Xuan Dieu Street, Tay Ho Ward, Hanoi City, Vietnam",
-      "headquarters": "No. 66 Xuan Dieu Street, Tay Ho Ward, Hanoi City, Vietnam",
-      "phone": "0917980188",
-      "email": "info@dongtienhotel.store",
-      "representative": "NGUYEN VAN THANH",
+      "managedBy": "Tax Office 11, Hanoi City",
+      "taxAddress": "No. 2, Alley 201/2 Phuc Loi Street, Phuc Loi Ward, Hanoi City, Vietnam",
+      "headquarters": "No. 2, Alley 201/2 Phuc Loi Street, Phuc Loi Ward, Hanoi City, Vietnam",
+      "phone": "0363929966",
+      "email": "info@khanhthanh.store",
+      "representative": "CHU TRONG BAO",
       "statusActive": "Active"
     },
     "businessActivities": {
@@ -441,14 +441,14 @@
       },
       "website": {
         "label": "Website:",
-        "value": "https://dongtienhotel.store"
+        "value": "https://khanhthanh.store"
       }
     },
     "cta": {
       "title": "Need to Contact Us?",
       "desc": "We are ready to consult and support you",
       "contact": "Contact Now",
-      "call": "Call: 0917980188"
+      "call": "Call: 0363929966"
     }
   },
   "gallery": {
