@@ -363,8 +363,8 @@ section {
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(135deg, rgba(49, 130, 206, 0.15) 0%, rgba(99, 179, 237, 0.25) 100%),
-                url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><defs><pattern id="sewing" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="10" cy="10" r="1" fill="%233182ce" opacity="0.1"/></pattern></defs><rect width="100" height="100" fill="url(%23sewing)"/></svg>');
+    background: linear-gradient(135deg, rgba(49, 130, 206, 0.7) 0%, rgba(99, 179, 237, 0.6) 100%),
+                url('../images/hero-background-professional.jpg') center/cover no-repeat;
     opacity: 1;
 }
 
@@ -374,19 +374,28 @@ section {
     text-align: center;
     max-width: 800px;
     margin: 0 auto;
+    padding: 40px 30px;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
 }
 
 .hero-content h1 {
     font-size: 3rem;
     margin-bottom: 20px;
     font-weight: 700;
+    color: var(--text-primary);
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .hero-subtitle {
     font-size: 1.3rem;
     margin-bottom: 30px;
-    color: var(--text-secondary);
-    opacity: 1;
+    color: var(--text-primary);
+    opacity: 0.95;
+    font-weight: 500;
+    line-height: 1.6;
 }
 
 .hero-buttons {
